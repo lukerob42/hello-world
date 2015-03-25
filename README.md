@@ -5,4 +5,6 @@ tutorial nonsense
 tutorial stuff done in tutorial-edits branch
 blah blah 
 
-blah.  t
+blah.  
+
+More stuff
